@@ -10,6 +10,12 @@ Me chamo João Pedro, sou estudante de Sistemas de Informação e estou no iníc
 
 Atualmente estou focado em evoluir na área de desenvolvimento web, criando projetos reais para ganhar experiência e conquistar minha primeira oportunidade como desenvolvedor.
 
+---
+
+### 🌐 Portfólio
+
+👉 https://jotap.vercel.app/
+
 </td>
 
 <td width="50%">
