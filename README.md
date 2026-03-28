@@ -12,9 +12,9 @@ Atualmente estou focado em evoluir na área de desenvolvimento web, criando proj
 
 ---
 
-### 🌐 Portfólio
-
-👉 https://jotap.vercel.app/
+<a href="https://jotap.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/🌐 Portfólio-Acessar-0a66c2?style=for-the-badge" />
+</a>
 
 </td>
 
