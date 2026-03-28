@@ -22,7 +22,7 @@ Atualmente estou focado em evoluir na área de desenvolvimento web, criando proj
 
 <img src="https://streak-stats.demolab.com?user=jotap-tech&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jotap-tech&theme=tokyo-night&hide_border=true" />
+
 
 </td>
 </tr>
