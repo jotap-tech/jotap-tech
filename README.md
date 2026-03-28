@@ -22,7 +22,9 @@ Atualmente estou focado em evoluir na área de desenvolvimento web, criando proj
 
 <img src="https://streak-stats.demolab.com?user=jotap-tech&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=jotap-tech&theme=tokyonight&no-frame=true&row=1" />
+<a href="https://jotap.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/🌐 Portfólio-Acessar-0a66c2?style=for-the-badge" />
+</a>
 
 </td>
 </tr>
