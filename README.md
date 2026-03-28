@@ -20,9 +20,7 @@ Atualmente estou focado em evoluir na área de desenvolvimento web, criando proj
 
 <td width="50%">
 
-<img 
-    src="https://github-readme-stats.vercel.app/api?username=jotap-tech&show_icons=true&theme=tokyonight&cache_seconds=1800" 
-/>
+<img src="https://streak-stats.demolab.com?user=jotap-tech&theme=tokyonight&hide_border=true" />
 
 <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=jotap-tech&layout=compact&theme=tokyonight&cache_seconds=1800" 
