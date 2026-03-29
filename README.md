@@ -21,6 +21,7 @@ Atualmente estou focado em evoluir na área de desenvolvimento web, criando proj
     <img src="https://img.shields.io/badge/💼 LinkedIn-Conectar-0A66C2?style=for-the-badge" />
   </a>
 </p>
+
 ---
 
 ### 🚀 Tecnologias
