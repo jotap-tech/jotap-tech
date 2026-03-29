@@ -16,6 +16,10 @@ Atualmente estou focado em evoluir na área de desenvolvimento web, criando proj
   <img src="https://img.shields.io/badge/🌐 Portfólio-Acessar-0a66c2?style=for-the-badge" />
 </a>
 
+<a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-ven%C3%A2ncio-leite-2a825a342/" target="_blank">
+  <img src="https://img.shields.io/badge/💼 LinkedIn-Conectar-0A66C2?style=for-the-badge" />
+</a>
+
 </td>
 
 <td width="50%">
