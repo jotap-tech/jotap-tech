@@ -41,7 +41,7 @@ Atualmente estou focado em evoluir na área de desenvolvimento web, criando proj
 
 <img 
   width="100%" 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jotap-tech&layout=compact&theme=tokyonight&hide_border=true" 
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jotap-tech&theme=tokyonight" 
 />
 
 </td>
