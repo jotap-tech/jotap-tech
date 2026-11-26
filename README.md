@@ -1,18 +1,27 @@
-👨🏻‍💻 João Pedro
 
-<table> <tr> <td width="50%">
+# 👨🏻‍💻 João Pedro
 
-Desenvolvedor FullStack
+<table>
+<tr>
+<td width="50%">
+
+### Desenvolvedor FullStack
 
 Me chamo João Pedro, sou estudante de Sistemas de Informação e estou no início da minha jornada como desenvolvedor FullStack.
 
 Atualmente estou focado em evoluir na área de desenvolvimento web, criando projetos reais para ganhar experiência e conquistar minha primeira oportunidade como desenvolvedor.
 
-<p> <a href="https://jotap.vercel.app/" target="_blank"> <img src="https://img.shields.io/badge/🌐 Portfólio-Acessar-0a66c2?style=for-the-badge" /> </a>
+<p>
+<a href="https://jotap.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/🌐 Portfólio-Acessar-0a66c2?style=for-the-badge" />
+</a>
 
-<a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-ven%C3%A2ncio-leite-2a825a342/" target="_blank"> <img src="https://img.shields.io/badge/💼 LinkedIn-Conectar-0A66C2?style=for-the-badge" /> </a> </p>
+<a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-ven%C3%A2ncio-leite-2a825a342/" target="_blank">
+<img src="https://img.shields.io/badge/💼 LinkedIn-Conectar-0A66C2?style=for-the-badge" />
+</a>
+</p>
 
-🚀 Tecnologias
+### 🚀 Tecnologias
 
 <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,express,mongodb&theme=dark" />
 
@@ -20,14 +29,13 @@ Atualmente estou focado em evoluir na área de desenvolvimento web, criando proj
 
 <td width="50%" align="center">
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=jotap-tech&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jotap-tech&theme=tokyonight" />
 
 <br/>
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jotap-tech&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
-<br/>
+<img width="100%" src="https://raw.githubusercontent.com/jotap-tech/jotap-tech/output/github-contribution-grid-snake-dark.svg" />
 
-<img width="100%" src="https://streak-stats.demolab.com?user=jotap-tech&theme=tokyonight&hide_border=true&background=1A1B27" />
-
-</td> </tr> </table>
+</td>
+</tr>
+</table>
