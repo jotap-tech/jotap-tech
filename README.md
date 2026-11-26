@@ -30,7 +30,12 @@ Atualmente estou focado em evoluir na área de desenvolvimento web, criando proj
 <td width="50%" align="center">
 
 <!-- GitHub Profile Summary -->
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jotap-tech&theme=tokyonight" />
+
+<img
+  width="100%"
+  src="https://github-readme-stats.vercel.app/api?username=jotap-tech&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github"
+/>
+
 
 <br/>
 
