@@ -29,12 +29,13 @@ Atualmente estou focado em evoluir na área de desenvolvimento web, criando proj
 
 <td width="50%" align="center">
 
+<!-- GitHub Profile Summary -->
 <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jotap-tech&theme=tokyonight" />
 
 <br/>
 
-
-<img width="100%" src="https://raw.githubusercontent.com/jotap-tech/jotap-tech/output/github-contribution-grid-snake-dark.svg" />
+<!-- Top Languages -->
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jotap-tech&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 
 </td>
 </tr>
