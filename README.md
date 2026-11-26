@@ -29,13 +29,8 @@ Atualmente estou focado em evoluir na área de desenvolvimento web, criando proj
 
 <td width="50%" align="center">
 
-<!-- GitHub Profile Summary -->
-
-<img
-  width="100%"
-  src="https://github-readme-stats.vercel.app/api?username=jotap-tech&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github"
-/>
-
+<!-- GitHub Streak -->
+<img width="100%" src="https://streak-stats.demolab.com?user=jotap-tech&theme=tokyonight&hide_border=true&background=1A1B27" />
 
 <br/>
 
